@@ -2,15 +2,11 @@
 
 ### Remember to have fun!
 
-# What
-## Project
-### Are
-## You
-# Making?
+# What ## Project ## Are ## You # Making?
 
-<H1>How can we help?<H1>
-<h2>Well, what program/language do you want to use to hack your website?<h2>
-- [GitHub](https://learntocodewith.me/tutorials/github-pages/)
+##How can we help?
+###Well, what program/language do you want to use to hack your website?
+- [Github](https://learntocodewith.me/tutorials/github-pages/)
 - [Java](https://www.youtube.com/watch?v=EiOtxmRFi10)
 
 **Bold** and _Italic_ and `Code` text
