@@ -10,8 +10,8 @@
 
 <H1>How can we help?<H1>
 <h2>Well, what program/language do you want to use to hack your website?<h2>
-1. [GitHub] (https://learntocodewith.me/tutorials/github-pages/)
-2. [Java] (https://www.youtube.com/watch?v=EiOtxmRFi10)
+1. [GitHub](https://learntocodewith.me/tutorials/github-pages/)
+2. [Java](https://www.youtube.com/watch?v=EiOtxmRFi10)
 
 **Bold** and _Italic_ and `Code` text
 
