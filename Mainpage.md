@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to The Hackathon WHS!
 
-You can use the [editor on GitHub](https://github.com/shackamaxon/Hackme/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Remember to have fun!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What
+## Project
+### Are
+## You
+# Making?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+<H1>How can we help?<H1>
+<h2>Well, what program/language do you want to use to hack your website?<h2>
+1. [GitHub] (https://learntocodewith.me/tutorials/github-pages/)
+2. [Java] (https://www.youtube.com/watch?v=EiOtxmRFi10)
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
